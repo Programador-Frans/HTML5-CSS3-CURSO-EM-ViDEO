@@ -1,0 +1,21 @@
+@charset "UTF8";
+
+body{
+    background-color: burlywood;
+    font-size: 20px;
+}
+h1{
+    color: chartreuse;
+    background-color: cornsilk;
+}
+h2{
+    color: darkred;
+}
+p{
+    text-align: justify;
+    background-color:floralwhite;
+}
+a{
+    color: white;
+    background-color: red;
+}
